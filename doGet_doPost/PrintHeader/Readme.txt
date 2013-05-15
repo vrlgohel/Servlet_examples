@@ -1,0 +1,1 @@
+An example that shows how to print all the header information from the request client

@@ -1,0 +1,1 @@
+An example that demonstrates to print all the request information from the servlet

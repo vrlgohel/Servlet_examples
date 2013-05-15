@@ -1,0 +1,1 @@
+An example the shows how to get/access a request parameter from a servlet
