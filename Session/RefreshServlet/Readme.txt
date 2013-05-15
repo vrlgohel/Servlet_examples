@@ -1,1 +1,1 @@
-An example that demonstrates a Client the refreshes itself every 60 seconds.
+An example that demonstrates a Client that refreshes itself every 60 seconds.
